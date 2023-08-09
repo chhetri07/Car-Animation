@@ -103,3 +103,8 @@ body{
         transform: translateY(-50px);
     }
 }
+@media only screen and (max-width: 940px) {
+    .car{
+        left: 6px;
+    }    
+}
